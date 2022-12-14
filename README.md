@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vue.js-white?style=flat&logo=Vue.js&logoColor=4FC08D"/>  
  </div>
+  <br>
    <div>
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/>  
 <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/>  
@@ -22,12 +23,14 @@
 <hr>
   
   
+ <div display="flex"> 
   
-  
-
 [![희주's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejucherish&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+  </div>
+   <div> 
+  
 ![희주's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=heejucherish&layout=compact&theme=tokyonight)
 
+  </div>
 </div>
