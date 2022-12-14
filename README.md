@@ -32,7 +32,7 @@
   
 <hr>
   
-<div> 
+
  <div float="left"> 
   
 [![희주's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejucherish&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,6 +43,6 @@
 ![희주's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=heejucherish&layout=compact&theme=tokyonight)
 
   </div>
-</div>
+
    
 </div>
