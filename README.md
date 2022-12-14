@@ -6,17 +6,19 @@
 
   
   <h3>📌Tech Stack📌</h3>  
+  <div>
 <img src="https://img.shields.io/badge/HTML5-gray?style=flat&logo=HTML5&logoColor=#E34F26"/>  
 <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>  
 <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vue.js-white?style=flat&logo=Vue.js&logoColor=4FC08D"/>  
-  
+ </div>
+   <div>
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/>  
 <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"/>  
 <img src="https://img.shields.io/badge/pandas-white?style=flat&logo=pandas&logoColor=150458"/>  
 <img src="https://img.shields.io/badge/MongoDB-white?style=flat&logo=MongoDB&logoColor=47A248"/>  
 <img src="https://img.shields.io/badge/SQLite-white?style=flat&logo=SQLite&logoColor=003B57"/>  
-  
+   </div>
 <hr>
   
   
