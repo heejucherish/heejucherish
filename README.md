@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,🐱I'm%20Heeju%20Park%10|%10Software%20Engineer&fontSize=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,🐱I'm%20Heeju%20Park%10|Software%20Engineer&fontSize=35)
 
 [![희주's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejucherish&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
